@@ -85,36 +85,7 @@
                 "version": "200"
             }
         },
-    {
-      "key": "咖啡",
-      "name": "咖啡｜4K",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "./凡人.jar",
-      "ext": {
-        "url": "http://160.202.243.62:2566",
-        "dataKey": "qwertyuiopqwerty",
-        "dataIv": "qwertyuiopqwerty",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
-    {
-      "key": "诺雪",
-      "name": "诺雪┃4K",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet2",
-      "jar": "./凡人.jar",
-      "ext": {
-        "url": "https://qjappcms.rx4k.top",
-        "dataKey": "ZX10ysTYZWtIJCTU",
-        "dataIv": "ZX10ysTYZWtIJCTU",
-        "deviceId": "",
-        "version": "120"
-      }
-    },
+
         {
             "key": "游子视频",
             "name": "游子视频",
