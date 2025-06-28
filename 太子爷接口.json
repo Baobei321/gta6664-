@@ -25,13 +25,20 @@
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
-      "api": "csp_WoggGuard",
-        "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/UApSCWaj.png;md5;46664fd81fdd430b516138e69613fbc9",
+      "api": "csp_WoGGGuard",
+        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1750940281747/f0626.jpg;md5;5e47ee0da460f1cfad869441e9eb2660",
+      "timeout": 30,
       "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 30
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.com/",
+        "danMu": "弹"
+      }
     },
+
     {
       "key": "移动4K云盘",
       "name": "移动4K云盘",
