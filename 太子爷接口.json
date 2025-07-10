@@ -46,7 +46,7 @@
       "name": "凯少爷3k极光",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "./meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751548979136/PandaQ250703b.jpg;md5;6ea33c17933c910130d2905dd23f248d",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -83,6 +83,21 @@
         "deviceId": "",
         "version": "120"
       }
+    },
+    {
+      "key": "梦回",
+      "name": "┃梦回┃APP",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751548979136/PandaQ250703b.jpg;md5;6ea33c17933c910130d2905dd23f248d",
+      "api": "csp_AppRJ",
+      "ext": "Z2MNziRBwjQxqaBuUxNkDRyvTntIkN1cOXhjyWgjCTc="
+    },
+    {
+      "key": "csp_Jpys",
+      "name": "┃金牌┃影视",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1751548979136/PandaQ250703b.jpg;md5;6ea33c17933c910130d2905dd23f248d",
+      "api": "csp_Jpys"
     },
 
         {
