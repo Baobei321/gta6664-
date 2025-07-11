@@ -1,136 +1,628 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
-http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2
-http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV3
-http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV4
-http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5
-http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6
-http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7
-http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8
-http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV9
-http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV10
-http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV11
-http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV12
-http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV13
-http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV14
-http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN
-http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.cn/tv/北京文艺.png" group-title="卫视频道",北京文艺
-http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 tvg-name="北京体育" tvg-logo="https://live.fanmingming.cn/tv/北京体育.png" group-title="卫视频道",北京体育
-http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
-#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://live.fanmingming.cn/tv/北京影视.png" group-title="卫视频道",北京影视
-http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.cn/tv/北京新闻.png" group-title="卫视频道",北京新闻
-http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://live.fanmingming.cn/tv/北京纪实.png" group-title="卫视频道",北京纪实
-http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://iptv.huuc.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://iptv.huuc.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://iptv.huuc.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://iptv.huuc.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://iptv.huuc.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://iptv.huuc.edu.cn/hls/lnhd.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://iptv.huuc.edu.cn/hls/szhd.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://iptv.huuc.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://iptv.huuc.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://iptv.huuc.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://iptv.huuc.edu.cn/hls/sdhd.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-#EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://live.fanmingming.cn/tv/上海纪实.png" group-title="卫视频道",上海纪实
-http://iptv.huuc.edu.cn/hls/docuchina.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://iptv.huuc.edu.cn/hls/schd.m3u8
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="卫视频道",金鹰纪实
-http://iptv.huuc.edu.cn/hls/gedocu.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://iptv.huuc.edu.cn/hls/dnhd.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://iptv.huuc.edu.cn/hls/hebhd.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+央视,#genre#
+CCTV1,https://stream.iptv-search.com/main.php?id=CCTV1&t=1751360581&token=db3123bc4121258544a86a79b87391d4
+CCTV2,https://stream.iptv-search.com/main.php?id=CCTV2&t=1751360581&token=f93fc0cb69d938f702abc66f69a77ce2
+CCTV3,https://stream.iptv-search.com/main.php?id=CCTV3&t=1751360581&token=2587b2c81def677cabbf967e1c812971
+CCTV4,https://stream.iptv-search.com/main.php?id=CCTV4&t=1751360581&token=45ad6c01e97053695dc072875a203c44
+CCTV4(1080p),https://stream.iptv-search.com/main.php?id=CCTV4%281080p%29&t=1751360581&token=c6f9b4c203851f800310ca7ad92ed4a8
+CCTV5,https://stream.iptv-search.com/main.php?id=CCTV5&t=1751360581&token=73a2da7faf45ab10f3b93e950d8d634b
+CCTV5+,https://stream.iptv-search.com/main.php?id=CCTV5%2B&t=1751360581&token=655af0da2ecb3ace2b75e21c939c5967
+CCTV6,https://stream.iptv-search.com/main.php?id=CCTV6&t=1751360581&token=cb7c177fe53f57ca0e67e51a2b1277a1
+CCTV7,https://stream.iptv-search.com/main.php?id=CCTV7&t=1751360581&token=0b91d9cb23879d42435474d2b0bcb19c
+CCTV8,https://stream.iptv-search.com/main.php?id=CCTV8&t=1751360581&token=55a975e690b125dfd9fd835b0c8fd8bb
+CCTV9,https://stream.iptv-search.com/main.php?id=CCTV9&t=1751360581&token=ade4c905c08ecfcde8b8929f69d67b17
+CCTV10,https://stream.iptv-search.com/main.php?id=CCTV10&t=1751360581&token=369c7332a760ef8b04a641d7ec35f644
+CCTV11,https://stream.iptv-search.com/main.php?id=CCTV11&t=1751360581&token=6ccd93819b4a17b0ba802e8264a40126
+CCTV12,https://stream.iptv-search.com/main.php?id=CCTV12&t=1751360581&token=ce8644b775d73b638d9cda5d8244cd18
+CCTV13,https://stream.iptv-search.com/main.php?id=CCTV13&t=1751360581&token=c2541e1260023a8a4b1e047821958c50
+CCTV14,https://stream.iptv-search.com/main.php?id=CCTV14&t=1751360581&token=a8716bb629ddfd207dbfdfcf12ab58e3
+CCTV15,https://stream.iptv-search.com/main.php?id=CCTV15&t=1751360581&token=37f6020b6dd98cdccb99642f8c8a5d41
+CCTV16,https://stream.iptv-search.com/main.php?id=CCTV16&t=1751360581&token=a81767e6c5a48c52c189a6ecba88ca22
+CCTV17,https://stream.iptv-search.com/main.php?id=CCTV17&t=1751360581&token=95b7284c307362e6c16b3a65b6011e47
 
-#EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.cn/tv/浙江新闻.png" group-title="浙江频道",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://live.fanmingming.cn/tv/浙江国际.png" group-title="浙江频道",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.cn/tv/浙江少儿.png" group-title="浙江频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.cn/tv/浙江教科影视.png" group-title="浙江频道",浙江教科
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://live.fanmingming.cn/tv/之江纪录.png" group-title="浙江频道",之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.cn/tv/浙江民生休闲.png" group-title="浙江频道",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://live.fanmingming.cn/tv/浙江经济生活.png" group-title="浙江频道",浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.cn/tv/钱江都市.png" group-title="浙江频道",浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-name="内蒙古综合" tvg-logo="https://live.fanmingming.cn/tv/内蒙古新闻综合.png" group-title="内蒙频道",内蒙新闻
-https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.cn/tv/内蒙古经济生活.png" group-title="内蒙频道",内蒙经济
-https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://live.fanmingming.cn/tv/内蒙古少儿.png" group-title="内蒙频道",内蒙少儿
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古文体娱乐" tvg-logo="https://live.fanmingming.cn/tv/内蒙古文体娱乐.png" group-title="内蒙频道",内蒙文体
-https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古农牧" tvg-logo="https://live.fanmingming.cn/tv/内蒙古农牧.png" group-title="内蒙频道",内蒙农牧
-https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古蒙语卫视.png" group-title="内蒙频道",蒙语卫视
-https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
-#EXTINF:-1 tvg-name="内蒙古蒙语文化" tvg-logo="https://live.fanmingming.cn/tv/内蒙古蒙语文化.png" group-title="内蒙频道",蒙语文化
-https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
-#EXTINF:-1 tvg-name="呼和浩特新闻综合" tvg-logo="https://live.fanmingming.cn/tv/呼和浩特新闻综合.png" group-title="内蒙频道",呼市新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
-#EXTINF:-1 tvg-name="包头新闻综合" tvg-logo="https://live.fanmingming.cn/tv/包头新闻综合.png" group-title="内蒙频道",包头新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
-#EXTINF:-1 tvg-name="鄂尔多斯新闻综合" tvg-logo="https://live.fanmingming.cn/tv/鄂尔多斯新闻综合.png" group-title="内蒙频道",鄂尔多斯新闻
-https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
-#EXTINF:-1 tvg-name="巴彦淖尔新闻综合" tvg-logo="https://live.fanmingming.cn/tv/巴彦淖尔新闻综合.png" group-title="内蒙频道",巴彦淖尔新闻
-https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
-#EXTINF:-1 tvg-name="赤峰新闻综合" tvg-logo="https://live.fanmingming.cn/tv/赤峰新闻综合.png" group-title="内蒙频道",赤峰新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
-#EXTINF:-1 tvg-name="乌兰察布新闻综合" tvg-logo="https://live.fanmingming.cn/tv/乌兰察布.png" group-title="内蒙频道",乌兰察布新闻
-https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN英语
-https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
-https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语
-https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视频道",CGTN西语
-https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
-https://0472.org/hls/cgtna.m3u8
+卫视,#genre#
+三沙卫视,https://stream.iptv-search.com/main.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&t=1751360581&token=a4ba8590c2c0da3a57ca445cd40607a1
+东南卫视,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1751360581&token=3e0ad2df15fb9acf5f206a39e3886b5d
+东方卫视,https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&t=1751360581&token=180dc7de3c7b34e8eef6cd52a79f11a3
+云南卫视,https://stream.iptv-search.com/main.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&t=1751360581&token=c6e794473c010961c89fb0152ad1cd2f
+人间卫视,https://stream.iptv-search.com/main.php?id=%E4%BA%BA%E9%97%B4%E5%8D%AB%E8%A7%86&t=1751360581&token=9c3d3be2490a9c22e0895d11943991c6
+兵团卫视,https://stream.iptv-search.com/main.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&t=1751360581&token=6830da4dbdd446955e818a920051c4aa
+内蒙古卫视,https://stream.iptv-search.com/main.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&t=1751360581&token=068dca132734cd4b275d3854d23f2210
+北京卫视,https://stream.iptv-search.com/main.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&t=1751360581&token=2e550629c54a7c77ad4ea2d11bdf4733
+卫视中文台,https://stream.iptv-search.com/main.php?id=%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0&t=1751360581&token=e1077d087c04e08a04c287bcddefa18e
+卫视电影台,https://stream.iptv-search.com/main.php?id=%E5%8D%AB%E8%A7%86%E7%94%B5%E5%BD%B1%E5%8F%B0&t=1751360581&token=b8db28a5c58b71cba23d78d6b1022269
+吉林卫视,https://stream.iptv-search.com/main.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&t=1751360581&token=6d49ddb3c4d18131f7b528445ff9c6e0
+四川卫视,https://stream.iptv-search.com/main.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&t=1751360581&token=210c683f8af8dfd79b8c57436c71718c
+大湾区卫视,https://stream.iptv-search.com/main.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&t=1751360581&token=67e34bf32c7eee8e10cd342d9cf60b9b
+天津卫视,https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1751360581&token=b9f121f1a4cc3353e03935b751b0df29
+安多卫视,https://stream.iptv-search.com/main.php?id=%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86&t=1751360581&token=036dc9e80299e7a77309947d5b939c5d
+山东卫视,https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1751360581&token=9f96f393f1330c89120af47a73d9af49
+山东教育卫视,https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86&t=1751360581&token=c898242cce1501063deeb6ba2cca9417
+山西卫视,https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1751360581&token=6d45dd633f1d8ab6208496655e47eec2
+广东卫视,https://stream.iptv-search.com/main.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1751360581&token=f6dd2fe078737a2180f0911d0c383008
+广西卫视,https://stream.iptv-search.com/main.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1751360581&token=ee4d99905b09b7b95005e73a702d27d3
+康巴卫视,https://stream.iptv-search.com/main.php?id=%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86&t=1751360581&token=689b3e31392c5e06ab5298c6fb558b7a
+新疆卫视,https://stream.iptv-search.com/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&t=1751360581&token=fb979bdd9ecdc5f55933382ac017ab1d
+江西卫视,https://stream.iptv-search.com/main.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1751360581&token=b7b1e320720723f3abeebab113b5f34a
+河北卫视,https://stream.iptv-search.com/main.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&t=1751360581&token=dd39c76459fd86dea652f9373f902f5e
+河南卫视,https://stream.iptv-search.com/main.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&t=1751360581&token=f806a08dc3ccb8419b7b06345e698f4f
+浙江卫视,https://stream.iptv-search.com/main.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1751360581&token=db99f1592c0873204fbd73666597b27b
+海南卫视,https://stream.iptv-search.com/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&t=1751360581&token=8c0a708c09effb6a0c99a92209b9227c
+海峡卫视,https://stream.iptv-search.com/main.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&t=1751360581&token=f52549288870dc76bd7530d3ca7f03de
+深圳卫视,https://stream.iptv-search.com/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1751360581&token=9e6ed043dc16f34a3579f5e930117b3f
+深圳卫视4K,https://stream.iptv-search.com/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K&t=1751360581&token=34fc45ceb63e96a2fcd7d68a291b5975
+湖北卫视,https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1751360581&token=80cba84b6b5edde274bdd7d630a027a7
+湖南卫视,https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=1751360581&token=c01db7e09f8ab0024f2abdc53b2e10c3
+甘肃卫视,https://stream.iptv-search.com/main.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&t=1751360581&token=208e338fe1ac29760553803796bd1631
+莲花卫视,https://stream.iptv-search.com/main.php?id=%E8%8E%B2%E8%8A%B1%E5%8D%AB%E8%A7%86&t=1751360581&token=c66e0d9f4b75d5f9e428b48787081b55
+藏语卫视,https://stream.iptv-search.com/main.php?id=%E8%97%8F%E8%AF%AD%E5%8D%AB%E8%A7%86&t=1751360581&token=a362a22d629c9e2a0bb0010bb7d87a02
+西藏卫视,https://stream.iptv-search.com/main.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&t=1751360581&token=915506568c0fee1f5365a67503ed3c3f
+贵州卫视,https://stream.iptv-search.com/main.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&t=1751360581&token=60eb6f8ef61f1fe2ba5cf74a9c0523f2
+辽宁卫视,https://stream.iptv-search.com/main.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&t=1751360581&token=52005beb1acfee7f907146481d7dc5c9
+重庆卫视,https://stream.iptv-search.com/main.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&t=1751360581&token=0fe43ac0b0930ce6be533a6c44c5a168
+陕西卫视,https://stream.iptv-search.com/main.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1751360581&token=70270446aa4223b25d7ff770541fd5f1
+青海卫视,https://stream.iptv-search.com/main.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&t=1751360581&token=459c5d23af1567609874382887e9a0f1
+黑龙江卫视,https://stream.iptv-search.com/main.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1751360581&token=5e13ecc35a9c82d698560e3a7c6787d7
+
+斯玛特weixin,#genre#
+斯玛特weixin,http://weixin.qq.home.kg/smtv.php
+中国,#genre#
+中国|CCTV-1 综合 HD,http://weixin.qq.home.kg/smtv.php?id=cctv1
+中国|CCTV-2 财经,http://weixin.qq.home.kg/smtv.php?id=cctv2
+中国|CCTV-3 综艺 HD,http://weixin.qq.home.kg/smtv.php?id=cctv3
+中国|CCTV-4 中文国际,http://weixin.qq.home.kg/smtv.php?id=cctv4
+中国|CCTV4 新闻台,http://weixin.qq.home.kg/smtv.php?id=Cctv4
+中国|CCTV-5 体育频道,http://weixin.qq.home.kg/smtv.php?id=cctv5
+中国|CCTV-5+ 体育赛事 HD,http://weixin.qq.home.kg/smtv.php?id=cctv5plus
+中国|CCTV-7 军事农业,http://weixin.qq.home.kg/smtv.php?id=cctv7
+中国|CCTV-8 电视剧 HD,http://weixin.qq.home.kg/smtv.php?id=cctv8hd
+中国|CCTV-9 记录 HD,http://weixin.qq.home.kg/smtv.php?id=cctv9hd
+中国|CCTV-10 科教 HD,http://weixin.qq.home.kg/smtv.php?id=cctv10hd
+中国|CCTV-11 戏曲,http://weixin.qq.home.kg/smtv.php?id=cctv11
+中国|CCTV-12 社会与法,http://weixin.qq.home.kg/smtv.php?id=cctv12
+中国|CCTV-13 新闻频道,http://weixin.qq.home.kg/smtv.php?id=cctv13
+中国|CCTV-14 少儿,http://weixin.qq.home.kg/smtv.php?id=cctv14
+中国|CCTV-6,http://weixin.qq.home.kg/smtv.php?id=cctv6
+中国|CCTV-15 音乐,http://weixin.qq.home.kg/smtv.php?id=cctv15
+中国|湖南卫视,http://weixin.qq.home.kg/smtv.php?id=hunan_twn
+中国|浙江卫视,http://weixin.qq.home.kg/smtv.php?id=zhejiang_twn
+中国|江苏卫视,http://weixin.qq.home.kg/smtv.php?id=jiangsu_twn
+中国|深圳卫视,http://weixin.qq.home.kg/smtv.php?id=shenzhen
+中国|福建东南卫视,http://weixin.qq.home.kg/smtv.php?id=fujian
+中国|广东南方卫视,http://weixin.qq.home.kg/smtv.php?id=nanfang_twn
+中国|广东卫视,http://weixin.qq.home.kg/smtv.php?id=guangdongweishi_twn
+中国|北京卫视,http://weixin.qq.home.kg/smtv.php?id=beijing
+中国|珠江台,http://weixin.qq.home.kg/smtv.php?id=zhujiang
+中国|广西卫视,http://weixin.qq.home.kg/smtv.php?id=guangxi
+中国|湖北卫视,http://weixin.qq.home.kg/smtv.php?id=hubei
+中国|四川卫视,http://weixin.qq.home.kg/smtv.php?id=sichuan_twn
+中国|东方卫视,http://weixin.qq.home.kg/smtv.php?id=dongfangweishi_twn
+中国|CGTN,http://weixin.qq.home.kg/smtv.php?id=CGTN
+中国|凤凰卫视,http://weixin.qq.home.kg/smtv.php?id=phoenixtv_hd
+中国|凤凰资讯,http://weixin.qq.home.kg/smtv.php?id=phoenixinfo_hd
+香港,#genre#
+香港|翡翠台,http://weixin.qq.home.kg/smtv.php?id=jade_twn
+香港|翡翠台 backup,http://weixin.qq.home.kg/smtv.php?id=Jade_xue
+香港|iNews 新闻台,http://weixin.qq.home.kg/smtv.php?id=inews_twn
+香港|J 2,http://weixin.qq.home.kg/smtv.php?id=j2_twn
+香港|珍珠台,http://weixin.qq.home.kg/smtv.php?id=pearl_twn
+香港|凤凰香港,http://weixin.qq.home.kg/smtv.php?id=hkphoenix_twn
+香港|HOY资讯台,http://weixin.qq.home.kg/smtv.php?id=hoycaijing_twn
+香港|RHK 31,http://weixin.qq.home.kg/smtv.php?id=rhk31_twn
+香港|VIUTV1,http://weixin.qq.home.kg/smtv.php?id=viu1_twn
+香港|RHK 32,http://weixin.qq.home.kg/smtv.php?id=rhk32_twn
+香港|凤凰卫视,http://weixin.qq.home.kg/smtv.php?id=phoenixtv_hd
+香港|凤凰资讯,http://weixin.qq.home.kg/smtv.php?id=phoenixinfo_hd
+香港|Viu6,http://weixin.qq.home.kg/smtv.php?id=viusix_twn
+
+
+台湾,#genre#
+台湾|TVBS News 新闻台,http://weixin.qq.home.kg/smtv.php?id=tvbs_n
+台湾|TVBS 欢乐台 （备份）,http://weixin.qq.home.kg/smtv.php?id=tvbshuanle_twn
+台湾|TVBS HD,http://weixin.qq.home.kg/smtv.php?id=tvbs
+台湾|中天新闻 HD,http://weixin.qq.home.kg/smtv.php?id=ctinews
+台湾|中天娱乐 CTI Entertaiment,http://weixin.qq.home.kg/smtv.php?id=ctient
+台湾|中天综合 CTI Metro,http://weixin.qq.home.kg/smtv.php?id=ctizhonghe
+台湾|中天亚洲台,http://weixin.qq.home.kg/smtv.php?id=ctiasia_twn
+台湾|台视 TTV HD,http://weixin.qq.home.kg/smtv.php?id=ttv_taiwan
+台湾|台视新闻台,http://weixin.qq.home.kg/smtv.php?id=ttvnews_twn
+台湾|台视综合台,http://weixin.qq.home.kg/smtv.php?id=ttvzhonghe
+台湾|中视 HD,http://weixin.qq.home.kg/smtv.php?id=zhongshihd_twn
+台湾|中视新闻台,http://weixin.qq.home.kg/smtv.php?id=zhongshinews_twn
+台湾|民视 HD,http://weixin.qq.home.kg/smtv.php?id=ftvhd_taiwan
+台湾|民视新闻台 FTV News,http://weixin.qq.home.kg/smtv.php?id=ftvnew_taiwan
+台湾|民视台湾台,http://weixin.qq.home.kg/smtv.php?id=ftvtaiwan_twn
+台湾|华视 CTS HD,http://weixin.qq.home.kg/smtv.php?id=ctshd_twn
+台湾|公视 CTV,http://weixin.qq.home.kg/smtv.php?id=ctv18_twn
+台湾|八大第一 GTV First,http://weixin.qq.home.kg/smtv.php?id=badafirst
+台湾|八大综合 GTV Metro,http://weixin.qq.home.kg/smtv.php?id=badazhonghe
+台湾|八大戏剧 GTV Drama,http://weixin.qq.home.kg/smtv.php?id=badadrama
+台湾|八大娱乐 GTV Entertainment,http://weixin.qq.home.kg/smtv.php?id=badaentertain
+台湾|HBO_HD,http://weixin.qq.home.kg/smtv.php?id=hbohd_twn
+台湾|HBO_HITS,http://weixin.qq.home.kg/smtv.php?id=hbohit_twn
+台湾|Hollywood Movies,http://weixin.qq.home.kg/smtv.php?id=hollywoodmovies_twn
+台湾|三立台湾 Sanli Taiwan,http://weixin.qq.home.kg/smtv.php?id=sanlitaiwan
+台湾|三立戏剧台,http://weixin.qq.home.kg/smtv.php?id=sanlixiju_twn
+台湾|三立综合 Sanli Metro,http://weixin.qq.home.kg/smtv.php?id=sanlizhonghe
+台湾|三立都会台,http://weixin.qq.home.kg/smtv.php?id=sanlidouhui
+台湾|东森新闻 ETTV News,http://weixin.qq.home.kg/smtv.php?id=ettvnews
+台湾|CINEMAX,http://weixin.qq.home.kg/smtv.php?id=cinemax_twn
+台湾|东森综合 ETTV Metro,http://weixin.qq.home.kg/smtv.php?id=ettvzhonghe
+台湾|东森戏剧 ETTV Drama,http://weixin.qq.home.kg/smtv.php?id=ettvdrama
+台湾|东森超视,http://weixin.qq.home.kg/smtv.php?id=ettvsuper
+台湾|东森财经新闻 ETTV Business,http://weixin.qq.home.kg/smtv.php?id=ettvcaijing_twn
+台湾|寰宇财经,http://weixin.qq.home.kg/smtv.php?id=huanyutaiwan_twn
+台湾|寰宇新闻台,http://weixin.qq.home.kg/smtv.php?id=huanyuxinwen_twn
+台湾|公视2,http://weixin.qq.home.kg/smtv.php?id=ctv2_twn
+台湾|大爱1台,http://weixin.qq.home.kg/smtv.php?id=daai_twn
+台湾|非凡新闻台,http://weixin.qq.home.kg/smtv.php?id=feifannews_twn
+台湾|龙华戏剧 Lunghua Drama,http://weixin.qq.home.kg/smtv.php?id=lunghuaxiju_twn
+台湾|龙华经典台,http://weixin.qq.home.kg/smtv.php?id=lunghuajingdian_twn
+台湾|龙华偶像,http://weixin.qq.home.kg/smtv.php?id=lunghuaidol_twn
+台湾|AXN Taiwan,http://weixin.qq.home.kg/smtv.php?id=axn_twn
+台湾|靖天国际台,http://weixin.qq.home.kg/smtv.php?id=jingtianintl_twn
+台湾|年代新闻,http://weixin.qq.home.kg/smtv.php?id=niandainews_twn
+台湾|纬来日本台,http://weixin.qq.home.kg/smtv.php?id=videolandjapan
+台湾|纬来电影台,http://weixin.qq.home.kg/smtv.php?id=videolandmovie
+台湾|纬来体育台,http://weixin.qq.home.kg/smtv.php?id=videolandsport
+台湾|纬来综合台,http://weixin.qq.home.kg/smtv.php?id=videolandzonghe
+台湾|纬来育乐,http://weixin.qq.home.kg/smtv.php?id=videolandyule
+台湾|纬来精彩,http://weixin.qq.home.kg/smtv.php?id=videolandspecial_twn
+台湾|好消息 2,http://weixin.qq.home.kg/smtv.php?id=good2_twn
+台湾|大爱2台,http://weixin.qq.home.kg/smtv.php?id=daai2_twn
+台湾|亚洲美食,http://weixin.qq.home.kg/smtv.php?id=afc_twn
+台湾|美食星球,http://weixin.qq.home.kg/smtv.php?id=foodplanet_twn
+台湾|亚洲旅游 TLC Asia,http://weixin.qq.home.kg/smtv.php?id=tlc_twn
+台湾|东森电影 ETTV Movie,http://weixin.qq.home.kg/smtv.php?id=ettvmovie
+台湾|阿里郎 Arirang,http://weixin.qq.home.kg/smtv.php?id=arirang_twn
+台湾|博斯运动 1,http://weixin.qq.home.kg/smtv.php?id=bosisport1_twn
+台湾|博斯运动 2,http://weixin.qq.home.kg/smtv.php?id=bosisport2_twn
+台湾|博斯高球2 HD,http://weixin.qq.home.kg/smtv.php?id=bosigolf2_twn
+台湾|博斯网球 HD,http://weixin.qq.home.kg/smtv.php?id=bositennis_twn
+台湾|东森洋片 ETTV Western,http://weixin.qq.home.kg/smtv.php?id=ettvwestern
+台湾|龙华洋片 Lunghua Western,http://weixin.qq.home.kg/smtv.php?id=lunghuawestern_twn
+台湾|博斯无限,http://weixin.qq.home.kg/smtv.php?id=bosiunlimited_twn
+台湾|MTV Live,http://weixin.qq.home.kg/smtv.php?id=mtvhd_twn
+台湾|龙详时代,http://weixin.qq.home.kg/smtv.php?id=lungxiangtime_twn
+台湾|EYETV 旅游,http://weixin.qq.home.kg/smtv.php?id=eyetvtravel_twn
+台湾|靖天卡通台,http://weixin.qq.home.kg/smtv.php?id=jingtiancartoon_twn
+台湾|EYETV 戏剧,http://weixin.qq.home.kg/smtv.php?id=eyetvxiju_twn
+台湾|卫视中文台 Star Movies Chinese,http://weixin.qq.home.kg/smtv.php?id=weishichinese_twn
+台湾|东森幼幼 Yoyo TV,http://weixin.qq.home.kg/smtv.php?id=yoyo_twn
+台湾|卫视电影台,http://weixin.qq.home.kg/smtv.php?id=weishimovie_twn
+台湾|美亚电影,http://weixin.qq.home.kg/smtv.php?id=meiyamovie_twn
+台湾|爱尔达影剧台,http://weixin.qq.home.kg/smtv.php?id=eltayingju_twn
+台湾|爱尔达综合台,http://weixin.qq.home.kg/smtv.php?id=eltazonghe_twn
+台湾|星卫电影,http://weixin.qq.home.kg/smtv.php?id=xingwei_movie
+台湾|爱尔达影剧,http://weixin.qq.home.kg/smtv.php?id=eltayingju_twn
+台湾|AFC 亚洲旅游台,http://weixin.qq.home.kg/smtv.php?id=asiatravel_twn
+台湾|爱尔达体育2台,http://weixin.qq.home.kg/smtv.php?id=eltasport2_twn
+台湾|爱尔达体育3台,http://weixin.qq.home.kg/smtv.php?id=eltasport3_twn
+电影,#genre#
+电影频道|HBO_HD,http://weixin.qq.home.kg/smtv.php?id=hbohd_twn
+电影频道|HBO_HITS,http://weixin.qq.home.kg/smtv.php?id=hbohit_twn
+电影频道|Hollywood Movies,http://weixin.qq.home.kg/smtv.php?id=hollywoodmovies_twn
+电影频道|CCTV-6,http://weixin.qq.home.kg/smtv.php?id=cctv6
+电影频道|CINEMAX,http://weixin.qq.home.kg/smtv.php?id=cinemax_twn
+电影频道|Cinemax,http://weixin.qq.home.kg/smtv.php?id=Cinemax
+电影频道|AXN Taiwan,http://weixin.qq.home.kg/smtv.php?id=axn_twn
+电影频道|大爱2台,http://weixin.qq.home.kg/smtv.php?id=daai2_twn
+电影频道|东森电影 ETTV Movie,http://weixin.qq.home.kg/smtv.php?id=ettvmovie
+电影频道|东森洋片 ETTV Western,http://weixin.qq.home.kg/smtv.php?id=ettvwestern
+电影频道|龙华洋片 Lunghua Western,http://weixin.qq.home.kg/smtv.php?id=lunghuawestern_twn
+电影频道|Animax,http://weixin.qq.home.kg/smtv.php?id=Animax
+电影频道|龙详时代,http://weixin.qq.home.kg/smtv.php?id=lungxiangtime_twn
+电影频道|Movies Now HD,http://weixin.qq.home.kg/smtv.php?id=moviesnow_raj
+电影频道|Star Movies HD,http://weixin.qq.home.kg/smtv.php?id=starmovies_raj
+电影频道|卫视中文台 Star Movies Chinese,http://weixin.qq.home.kg/smtv.php?id=weishichinese_twn
+电影频道|HBO Family,http://weixin.qq.home.kg/smtv.php?id=Hbofamily
+电影频道|Hits,http://weixin.qq.home.kg/smtv.php?id=Hits
+电影频道|Warner TV,http://weixin.qq.home.kg/smtv.php?id=WarnerTV
+电影频道|卫视电影台,http://weixin.qq.home.kg/smtv.php?id=weishimovie_twn
+电影频道|HBO HD,http://weixin.qq.home.kg/smtv.php?id=Hbo
+电影频道|美亚电影,http://weixin.qq.home.kg/smtv.php?id=meiyamovie_twn
+电影频道|HBO Signature,http://weixin.qq.home.kg/smtv.php?id=Hbosignature
+电影频道|HBO Hits,http://weixin.qq.home.kg/smtv.php?id=Hbohitshd
+电影频道|星卫电影,http://weixin.qq.home.kg/smtv.php?id=xingwei_movie
+电影频道|SCM,http://weixin.qq.home.kg/smtv.php?id=Weishimovie
+电影频道|Dreamworks,http://weixin.qq.home.kg/smtv.php?id=Dreamworks
+电影频道|Thrill,http://weixin.qq.home.kg/smtv.php?id=Thrill
+电影频道|Hits Movie,http://weixin.qq.home.kg/smtv.php?id=Hitsmovie
+电影频道|One,http://weixin.qq.home.kg/smtv.php?id=One
+电影频道|tvN Movie,http://weixin.qq.home.kg/smtv.php?id=Tvnmovie
+电影频道|Celestial Classic,http://weixin.qq.home.kg/smtv.php?id=Celestial2
+电影频道|Celestial Movies HD,http://weixin.qq.home.kg/smtv.php?id=Celestialindo
+电影频道|Axn HD,http://weixin.qq.home.kg/smtv.php?id=Axn
+电影频道|Paramount Network,http://weixin.qq.home.kg/smtv.php?id=Paramountnetwork
+电影频道|Astrol Kplus,http://weixin.qq.home.kg/smtv.php?id=Kplus
+电影频道|Rock Actions,http://weixin.qq.home.kg/smtv.php?id=Rockaction
+电影频道|Rock Entertainment,http://weixin.qq.home.kg/smtv.php?id=Rockentertain
+体育,#genre#
+体育频道|Astro Premier League 1,http://weixin.qq.home.kg/smtv.php?id=go_assp1
+体育频道|Astro EPL 1 backup,http://weixin.qq.home.kg/smtv.php?id=go_assp1x
+体育频道|Astro Premier League 2,http://weixin.qq.home.kg/smtv.php?id=go_assp2
+体育频道|Astro Grandstand,http://weixin.qq.home.kg/smtv.php?id=go_assp3
+体育频道|Astro Football,http://weixin.qq.home.kg/smtv.php?id=go_assp4
+体育频道|Astro Sports Plus,http://weixin.qq.home.kg/smtv.php?id=go_sportsplus
+体育频道|Astro Badminton 1,http://weixin.qq.home.kg/smtv.php?id=go_badminton1
+体育频道|Astro Badminton 2,http://weixin.qq.home.kg/smtv.php?id=go_badminton2
+体育频道|Astro W-Sports,http://weixin.qq.home.kg/smtv.php?id=go_assp5
+体育频道|Supersports 1,http://weixin.qq.home.kg/smtv.php?id=Assp1
+体育频道|Supersports 2,http://weixin.qq.home.kg/smtv.php?id=Assp2
+体育频道|Supersports 3,http://weixin.qq.home.kg/smtv.php?id=Assp3
+体育频道|Supersports 4,http://weixin.qq.home.kg/smtv.php?id=Assp4
+体育频道|WWE,http://weixin.qq.home.kg/smtv.php?id=Wwe
+体育频道|Fight Sports,http://weixin.qq.home.kg/smtv.php?id=Fs
+体育频道|NBA TV,http://weixin.qq.home.kg/smtv.php?id=Nba
+体育频道|Astro Cricket,http://weixin.qq.home.kg/smtv.php?id=Acricket
+体育频道|Astro Golf,http://weixin.qq.home.kg/smtv.php?id=Agolf
+体育频道|Tnt Sports 1,http://weixin.qq.home.kg/smtv.php?id=6fac0aaead
+体育频道|TNT Sports 2,http://weixin.qq.home.kg/smtv.php?id=d9a76a79cc
+体育频道|TNT Sports 3,http://weixin.qq.home.kg/smtv.php?id=5fea4d73db
+体育频道|TNT Sports 4,http://weixin.qq.home.kg/smtv.php?id=tntsport4
+体育频道|Sony Ten 1,http://weixin.qq.home.kg/smtv.php?id=ten1_raj
+体育频道|Sony Ten 2,http://weixin.qq.home.kg/smtv.php?id=ten2_raj
+体育频道|Sony Ten 3,http://weixin.qq.home.kg/smtv.php?id=ten3_raj
+体育频道|SPOTV 1 HD,http://weixin.qq.home.kg/smtv.php?id=go_spotv
+体育频道|SPO TV 2,http://weixin.qq.home.kg/smtv.php?id=go_spotv2
+体育频道|Skysports F1,http://weixin.qq.home.kg/smtv.php?id=tiankongf1
+体育频道|Skysports Cricket,http://weixin.qq.home.kg/smtv.php?id=tiankongcricket
+体育频道|Skysports EPL,http://weixin.qq.home.kg/smtv.php?id=tiankongepl
+体育频道|Skysports Main Event,http://weixin.qq.home.kg/smtv.php?id=tiankongmain
+体育频道|Skysports News,http://weixin.qq.home.kg/smtv.php?id=tiankongnews
+体育频道|Skysports Mix,http://weixin.qq.home.kg/smtv.php?id=tiankongmix
+体育频道|CCTV-5 体育频道,http://weixin.qq.home.kg/smtv.php?id=cctv5
+体育频道|CCTV-5+ 体育赛事 HD,http://weixin.qq.home.kg/smtv.php?id=cctv5plus
+体育频道|爱尔达体育2台,http://weixin.qq.home.kg/smtv.php?id=eltasport2_twn
+体育频道|爱尔达体育3台,http://weixin.qq.home.kg/smtv.php?id=eltasport3_twn
+体育频道|Rugby Pass TV,http://weixin.qq.home.kg/smtv.php?id=Rugbypasstv
+体育频道|RTM Sports HD,http://weixin.qq.home.kg/smtv.php?id=Rtmsport
+体育频道|Arena,http://weixin.qq.home.kg/smtv.php?id=Arena
+体育频道|Arena 2,http://weixin.qq.home.kg/smtv.php?id=Arena2
+体育频道|BolaArena 1,http://weixin.qq.home.kg/smtv.php?id=Bolaarena1
+体育频道|BolaArena 2,http://weixin.qq.home.kg/smtv.php?id=Bolaarena2
+体育频道|Astro Beinsports 1,http://weixin.qq.home.kg/smtv.php?id=Astrobein1
+体育频道|Astro Beinsports 2,http://weixin.qq.home.kg/smtv.php?id=Astrobein2
+体育频道|Astro Beinsports 3,http://weixin.qq.home.kg/smtv.php?id=Astrobein3
+新闻,#genre#
+新闻频道|Skynews,http://weixin.qq.home.kg/smtv.php?id=skynews_twn
+新闻频道|ABC News,http://weixin.qq.home.kg/smtv.php?id=abcnews_glo
+新闻频道|东森财经新闻 ETTV Business,http://weixin.qq.home.kg/smtv.php?id=ettvcaijing_twn
+新闻频道|CBS HD,http://weixin.qq.home.kg/smtv.php?id=cbshd_glo
+新闻频道|CBSN HD,http://weixin.qq.home.kg/smtv.php?id=cbsn_glo
+新闻频道|France 24,http://weixin.qq.home.kg/smtv.php?id=france24_twn
+新闻频道|DW (Deutsch),http://weixin.qq.home.kg/smtv.php?id=dw_twn
+新闻频道|NHK World,http://weixin.qq.home.kg/smtv.php?id=nhkworld_japan
+新闻频道|Fox News,http://weixin.qq.home.kg/smtv.php?id=foxnews_twn
+新闻频道|CGTN,http://weixin.qq.home.kg/smtv.php?id=CGTN
+新闻频道|CNN International,http://weixin.qq.home.kg/smtv.php?id=Cnn
+新闻频道|CNN backup,http://weixin.qq.home.kg/smtv.php?id=cnn_twn
+新闻频道|CNBC,http://weixin.qq.home.kg/smtv.php?id=cnbc_twn
+新闻频道|CNA,http://weixin.qq.home.kg/smtv.php?id=cna
+新闻频道|BBC World News,http://weixin.qq.home.kg/smtv.php?id=bbcnews_twn
+新闻频道|BBC World News,http://weixin.qq.home.kg/smtv.php?id=Bbcnews
+新闻频道|Bloomberg News,http://weixin.qq.home.kg/smtv.php?id=bloomberg_twn
+新闻频道|Al-Jazeera,http://weixin.qq.home.kg/smtv.php?id=aljazeera_twn
+儿童,#genre#
+儿童频道|Baby TV Eng,http://weixin.qq.home.kg/smtv.php?id=Babytv
+儿童频道|CBeebies,http://weixin.qq.home.kg/smtv.php?id=Cbeebies
+儿童频道|Kids TV,http://weixin.qq.home.kg/smtv.php?id=KidsTV
+儿童频道|Momo TV,http://weixin.qq.home.kg/smtv.php?id=momo1_twn
+儿童频道|Animax,http://weixin.qq.home.kg/smtv.php?id=Animax
+儿童频道|Baby TV,http://weixin.qq.home.kg/smtv.php?id=babytv_twn
+儿童频道|MiaoMi,http://weixin.qq.home.kg/smtv.php?id=MiaoMi
+儿童频道|靖天卡通台,http://weixin.qq.home.kg/smtv.php?id=jingtiancartoon_twn
+儿童频道|东森幼幼 Yoyo TV,http://weixin.qq.home.kg/smtv.php?id=yoyo_twn
+儿童频道|Cartoon Network,http://weixin.qq.home.kg/smtv.php?id=Cn
+儿童频道|Nickelodeon,http://weixin.qq.home.kg/smtv.php?id=Nickelodeon
+儿童频道|Nick Jr,http://weixin.qq.home.kg/smtv.php?id=Nickjr
+纪录,#genre#
+纪录频道|Natgeo_HD,http://weixin.qq.home.kg/smtv.php?id=natgeohd_twn
+纪录频道|NatGeo_Wild HD,http://weixin.qq.home.kg/smtv.php?id=natgeowild_twn
+纪录频道|Animal_Planet,http://weixin.qq.home.kg/smtv.php?id=animalplanet_twn
+纪录频道|Discovery Asia,http://weixin.qq.home.kg/smtv.php?id=discoverytwn_twn
+纪录频道|CI,http://weixin.qq.home.kg/smtv.php?id=ci_twn
+纪录频道|Asia Travel,http://weixin.qq.home.kg/smtv.php?id=asiatravel_twn
+纪录频道|Discovery HD,http://weixin.qq.home.kg/smtv.php?id=discoveryhd_twn
+纪录频道|亚洲美食,http://weixin.qq.home.kg/smtv.php?id=afc_twn
+纪录频道|美食星球,http://weixin.qq.home.kg/smtv.php?id=foodplanet_twn
+纪录频道|亚洲旅游 TLC Asia,http://weixin.qq.home.kg/smtv.php?id=tlc_twn
+纪录频道|NatGeo HD,http://weixin.qq.home.kg/smtv.php?id=Natgeo
+纪录频道|Fashion TV,http://weixin.qq.home.kg/smtv.php?id=fashiontv_twn
+纪录频道|History,http://weixin.qq.home.kg/smtv.php?id=History
+纪录频道|BBC Earth HD,http://weixin.qq.home.kg/smtv.php?id=bbcearth_twn
+纪录频道|BBC Earth Lifestyle,http://weixin.qq.home.kg/smtv.php?id=bbclifestyle_twn
+纪录频道|MTV Live,http://weixin.qq.home.kg/smtv.php?id=mtvhd_twn
+纪录频道|NatGeo Wild HD,http://weixin.qq.home.kg/smtv.php?id=Natgeowild
+纪录频道|Animal Planet (Eng),http://weixin.qq.home.kg/smtv.php?id=AnimalPlanet
+纪录频道|TLC,http://weixin.qq.home.kg/smtv.php?id=Tlc
+纪录频道|Foodnetwork Hd,http://weixin.qq.home.kg/smtv.php?id=Foodnetwork
+纪录频道|HGTV,http://weixin.qq.home.kg/smtv.php?id=HGTV
+纪录频道|AFC 亚洲旅游台,http://weixin.qq.home.kg/smtv.php?id=asiatravel_twn
+
+新加坡,#genre#
+新加坡|Channel 5,http://weixin.qq.home.kg/smtv.php?id=Channel5HD
+新加坡|Channel 8,http://weixin.qq.home.kg/smtv.php?id=Channel8HD
+新加坡|Suria,http://weixin.qq.home.kg/smtv.php?id=Suria
+新加坡|Channel U,http://weixin.qq.home.kg/smtv.php?id=ChannelU
+新加坡|Vasantham,http://weixin.qq.home.kg/smtv.php?id=Vasantham
+新加坡|CNA,http://weixin.qq.home.kg/smtv.php?id=cna
+新加坡|CNA backup,http://weixin.qq.home.kg/smtv.php?id=cna_twn
+新加坡|MeWatch Ch 5,http://weixin.qq.home.kg/smtv.php?id=Mewatch_ch5
+新加坡|MeWatch Ch 8,http://weixin.qq.home.kg/smtv.php?id=Mewatch_ch8
+新加坡|MeWatch Ch U,http://weixin.qq.home.kg/smtv.php?id=Mewatch_chU
+新加坡|MeWatch Suria,http://weixin.qq.home.kg/smtv.php?id=Mewatch_Suria
+新加坡|MeWatch Vasantham,http://weixin.qq.home.kg/smtv.php?id=Mewatch_Vasantham
+新加坡|MeWatch CNA,http://weixin.qq.home.kg/smtv.php?id=Mewatch_cna
+马来,#genre#
+马来西亚|TV1,http://weixin.qq.home.kg/smtv.php?id=TV1
+马来西亚|TV1 backup,http://weixin.qq.home.kg/smtv.php?id=TV1_backup
+马来西亚|TV2,http://weixin.qq.home.kg/smtv.php?id=TV2
+马来西亚|TV3,http://weixin.qq.home.kg/smtv.php?id=TV3
+马来西亚|TV3 SD,http://weixin.qq.home.kg/smtv.php?id=TV3_mega
+马来西亚|NTV7,http://weixin.qq.home.kg/smtv.php?id=NTV7
+马来西亚|TV8,http://weixin.qq.home.kg/smtv.php?id=TV8
+马来西亚|TV9,http://weixin.qq.home.kg/smtv.php?id=TV9
+马来西亚|Ria,http://weixin.qq.home.kg/smtv.php?id=Ria
+马来西亚|Ria-3,http://weixin.qq.home.kg/smtv.php?id=Ria_backup
+马来西亚|Al-Hijrah,http://weixin.qq.home.kg/smtv.php?id=Alhijrah
+马来西亚|Al-Hijrah backup,http://weixin.qq.home.kg/smtv.php?id=Alhijrah_backup
+马来西亚|Awani,http://weixin.qq.home.kg/smtv.php?id=Awani
+马来西亚|Bernama,http://weixin.qq.home.kg/smtv.php?id=Bernama
+马来西亚|Prima,http://weixin.qq.home.kg/smtv.php?id=Prima
+马来西亚|Prima backup,http://weixin.qq.home.kg/smtv.php?id=AAprima1
+马来西亚|Prima backup 2,http://weixin.qq.home.kg/smtv.php?id=AAprima
+马来西亚|Ceria,http://weixin.qq.home.kg/smtv.php?id=Ceria
+马来西亚|Astro MTV,http://weixin.qq.home.kg/smtv.php?id=AstroMTV
+马来西亚|Mecca Live HD,http://weixin.qq.home.kg/smtv.php?id=quran_mido
+马来西亚|Madinah HD,http://weixin.qq.home.kg/smtv.php?id=sunnah_mido
+马来西亚|Oasis,http://weixin.qq.home.kg/smtv.php?id=Oasis
+马来西亚|HBO HD,http://weixin.qq.home.kg/smtv.php?id=Hbo
+马来西亚|HBO Signature,http://weixin.qq.home.kg/smtv.php?id=Hbosignature
+马来西亚|HBO Hits,http://weixin.qq.home.kg/smtv.php?id=Hbohitshd
+马来西亚|NatGeo Wild HD,http://weixin.qq.home.kg/smtv.php?id=Natgeowild
+马来西亚|Cartoon Network,http://weixin.qq.home.kg/smtv.php?id=Cn
+马来西亚|Nickelodeon,http://weixin.qq.home.kg/smtv.php?id=Nickelodeon
+马来西亚|Nick Jr,http://weixin.qq.home.kg/smtv.php?id=Nickjr
+马来西亚|Dreamworks,http://weixin.qq.home.kg/smtv.php?id=Dreamworks
+马来西亚|Siar,http://weixin.qq.home.kg/smtv.php?id=Siar
+马来西亚|Citra,http://weixin.qq.home.kg/smtv.php?id=AAcitra
+马来西亚|Citra backup,http://weixin.qq.home.kg/smtv.php?id=AAcitra1
+马来西亚|Sensasi,http://weixin.qq.home.kg/smtv.php?id=Sensasi
+马来西亚|Aura,http://weixin.qq.home.kg/smtv.php?id=Aura
+马来西亚|Rania,http://weixin.qq.home.kg/smtv.php?id=Rania
+马来西亚|KBS World,http://weixin.qq.home.kg/smtv.php?id=KBS
+马来西亚|Boo,http://weixin.qq.home.kg/smtv.php?id=Boo
+马来西亚|Awesome TV,http://weixin.qq.home.kg/smtv.php?id=Dsangat
+马来西亚|Astro Sonypix,http://weixin.qq.home.kg/smtv.php?id=Asonypix
+马来西亚|Sony HD,http://weixin.qq.home.kg/smtv.php?id=SetOne
+马来西亚|TvN,http://weixin.qq.home.kg/smtv.php?id=TVN
+马来西亚|AEC,http://weixin.qq.home.kg/smtv.php?id=AEC
+马来西亚|华丽台 HD （Wah Lai Toi）,http://weixin.qq.home.kg/smtv.php?id=Wlt
+马来西亚|欢喜台 HD （Hua Hee Tai）,http://weixin.qq.home.kg/smtv.php?id=Huahee
+马来西亚|Astro QJ,http://weixin.qq.home.kg/smtv.php?id=Quanjia
+马来西亚|TVB Jade,http://weixin.qq.home.kg/smtv.php?id=Tvbjade
+马来西亚|TVB Asia,http://weixin.qq.home.kg/smtv.php?id=Tvbasia
+马来西亚|TVB Entertainment,http://weixin.qq.home.kg/smtv.php?id=Tvbentertainment
+马来西亚|TVB Classic,http://weixin.qq.home.kg/smtv.php?id=Tvbclassic
+马来西亚|AOD,http://weixin.qq.home.kg/smtv.php?id=Aodhd
+马来西亚|One,http://weixin.qq.home.kg/smtv.php?id=One
+马来西亚|TVB 星河台 Xing He,http://weixin.qq.home.kg/smtv.php?id=Xinhe
+马来西亚|爱奇艺 iQiyi,http://weixin.qq.home.kg/smtv.php?id=Qiyi
+马来西亚|Animal Planet (Eng),http://weixin.qq.home.kg/smtv.php?id=AnimalPlanet
+马来西亚|tvN Movie,http://weixin.qq.home.kg/smtv.php?id=Tvnmovie
+马来西亚|CNN backup,http://weixin.qq.home.kg/smtv.php?id=cnn_twn
+马来西亚|Celestial Classic,http://weixin.qq.home.kg/smtv.php?id=Celestial2
+马来西亚|CNBC,http://weixin.qq.home.kg/smtv.php?id=cnbc_twn
+马来西亚|TLC,http://weixin.qq.home.kg/smtv.php?id=Tlc
+马来西亚|CNA,http://weixin.qq.home.kg/smtv.php?id=cna
+马来西亚|BBC World News,http://weixin.qq.home.kg/smtv.php?id=bbcnews_twn
+马来西亚|Foodnetwork Hd,http://weixin.qq.home.kg/smtv.php?id=Foodnetwork
+马来西亚|HGTV,http://weixin.qq.home.kg/smtv.php?id=HGTV
+马来西亚|Goshop,http://weixin.qq.home.kg/smtv.php?id=Goshop
+马来西亚|Celestial Movies HD,http://weixin.qq.home.kg/smtv.php?id=Celestial
+马来西亚|Axn HD,http://weixin.qq.home.kg/smtv.php?id=Axn
+马来西亚|Paramount Network,http://weixin.qq.home.kg/smtv.php?id=Paramountnetwork
+马来西亚|Astrol Kplus,http://weixin.qq.home.kg/smtv.php?id=Kplus
+马来西亚|AFC 亚洲旅游台,http://weixin.qq.home.kg/smtv.php?id=asiatravel_twn
+马来西亚|Rock Actions,http://weixin.qq.home.kg/smtv.php?id=Rockaction
+马来西亚|Bloomberg News,http://weixin.qq.home.kg/smtv.php?id=bloomberg_twn
+马来西亚|Al-Jazeera,http://weixin.qq.home.kg/smtv.php?id=aljazeera_twn
+马来西亚|Rock Entertainment,http://weixin.qq.home.kg/smtv.php?id=Rockentertain
+马来西亚|RTM Sports HD,http://weixin.qq.home.kg/smtv.php?id=Rtmsport
+马来西亚|Arena,http://weixin.qq.home.kg/smtv.php?id=Arena
+马来西亚|Arena 2,http://weixin.qq.home.kg/smtv.php?id=Arena2
+马来西亚|BolaArena 1,http://weixin.qq.home.kg/smtv.php?id=Bolaarena1
+马来西亚|BolaArena 2,http://weixin.qq.home.kg/smtv.php?id=Bolaarena2
+马来西亚|Astro LOL,http://weixin.qq.home.kg/smtv.php?id=Astro_lol
+马来西亚|Astro Rusi,http://weixin.qq.home.kg/smtv.php?id=Rusi
+马来西亚|WION,http://weixin.qq.home.kg/smtv.php?id=Wion
+马来西亚|RTM Asean,http://weixin.qq.home.kg/smtv.php?id=Rtmasean
+印尼,#genre#
+印度尼西亚|TVRI National,http://weixin.qq.home.kg/smtv.php?id=TVRI
+印度尼西亚|RCTI,http://weixin.qq.home.kg/smtv.php?id=Rcti
+印度尼西亚|Kompass TV,http://weixin.qq.home.kg/smtv.php?id=Kompass
+印度尼西亚|Berita Satu,http://weixin.qq.home.kg/smtv.php?id=BeritaSatu_eko
+印度尼西亚|Indosiar HD,http://weixin.qq.home.kg/smtv.php?id=Indosiar
+印度尼西亚|AnTV,http://weixin.qq.home.kg/smtv.php?id=Antv
+印度尼西亚|MNC TV,http://weixin.qq.home.kg/smtv.php?id=Mnctv
+印度尼西亚|Trans 7,http://weixin.qq.home.kg/smtv.php?id=Trans7_eko
+印度尼西亚|Transtv,http://weixin.qq.home.kg/smtv.php?id=Transtv
+印度尼西亚|JTV,http://weixin.qq.home.kg/smtv.php?id=JTV_eko
+印度尼西亚|Metro TV,http://weixin.qq.home.kg/smtv.php?id=metrotv_eko
+印度尼西亚|Cinemax,http://weixin.qq.home.kg/smtv.php?id=Cinemax
+印度尼西亚|SCTV,http://weixin.qq.home.kg/smtv.php?id=SCTV
+印度尼西亚|Tvone,http://weixin.qq.home.kg/smtv.php?id=Tvone
+印度尼西亚|TVMU,http://weixin.qq.home.kg/smtv.php?id=TVMU_eko
+印度尼西亚|GTV,http://weixin.qq.home.kg/smtv.php?id=Gtv
+印度尼西亚|RTV,http://weixin.qq.home.kg/smtv.php?id=Rtv
+印度尼西亚|Jak TV,http://weixin.qq.home.kg/smtv.php?id=JakTV
+印度尼西亚|iNews TV,http://weixin.qq.home.kg/smtv.php?id=Inewstv
+印度尼西亚|Daai TV,http://weixin.qq.home.kg/smtv.php?id=DaaiTV
+印度尼西亚|Net TV,http://weixin.qq.home.kg/smtv.php?id=NetTV
+印度尼西亚|Animax,http://weixin.qq.home.kg/smtv.php?id=Animax
+印度尼西亚|EWTN,http://weixin.qq.home.kg/smtv.php?id=Ewtn
+印度尼西亚|AlQuran AlKareem,http://weixin.qq.home.kg/smtv.php?id=AlQuran
+印度尼西亚|Tawaf TV,http://weixin.qq.home.kg/smtv.php?id=TawafTV
+印度尼西亚|Vision Prime,http://weixin.qq.home.kg/smtv.php?id=VisionPrime
+印度尼西亚|Muslim TV,http://weixin.qq.home.kg/smtv.php?id=MuslimTV
+印度尼西亚|Music TV,http://weixin.qq.home.kg/smtv.php?id=MusicTV
+印度尼西亚|Lifestyle&amp;Fashion,http://weixin.qq.home.kg/smtv.php?id=Lifestyle
+印度尼西亚|Entertain,http://weixin.qq.home.kg/smtv.php?id=Entertain
+印度尼西亚|Hits,http://weixin.qq.home.kg/smtv.php?id=Hits
+印度尼西亚|Warner TV,http://weixin.qq.home.kg/smtv.php?id=WarnerTV
+印度尼西亚|SCM,http://weixin.qq.home.kg/smtv.php?id=Weishimovie
+印度尼西亚|Thrill,http://weixin.qq.home.kg/smtv.php?id=Thrill
+印度尼西亚|Fight Sports,http://weixin.qq.home.kg/smtv.php?id=Fs
+印度尼西亚|Hits Movie,http://weixin.qq.home.kg/smtv.php?id=Hitsmovie
+印度尼西亚|One,http://weixin.qq.home.kg/smtv.php?id=One
+印度尼西亚|tvN Movie,http://weixin.qq.home.kg/smtv.php?id=Tvnmovie
+印度尼西亚|Celestial Movies HD,http://weixin.qq.home.kg/smtv.php?id=Celestialindo
+印度尼西亚|Rock Actions,http://weixin.qq.home.kg/smtv.php?id=Rockaction
+印度尼西亚|Rock Entertainment,http://weixin.qq.home.kg/smtv.php?id=Rockentertain
+印度,#genre#
+印度|Sun TV HD,http://weixin.qq.home.kg/smtv.php?id=Suntv
+印度|Star Vijay,http://weixin.qq.home.kg/smtv.php?id=Starvijay
+印度|Colors Tamil,http://weixin.qq.home.kg/smtv.php?id=Colorstam
+印度|Sun Music,http://weixin.qq.home.kg/smtv.php?id=Sunmusic
+印度|Astro Sunlife,http://weixin.qq.home.kg/smtv.php?id=Sunlife
+印度|Astro Vaanavil,http://weixin.qq.home.kg/smtv.php?id=Vaanavil
+印度|Zee Tamil,http://weixin.qq.home.kg/smtv.php?id=Zeetamil
+印度|Zee Business,http://weixin.qq.home.kg/smtv.php?id=Zeebusiness
+印度|News 18 Tamil,http://weixin.qq.home.kg/smtv.php?id=news18tamil_raj
+印度|Adithya,http://weixin.qq.home.kg/smtv.php?id=Adithya
+印度|Makkal TV,http://weixin.qq.home.kg/smtv.php?id=Makkaltv
+印度|Zee Action,http://weixin.qq.home.kg/smtv.php?id=Zeeaction
+印度|Astro KTV,http://weixin.qq.home.kg/smtv.php?id=Astroktv
+印度|Zee TV HD,http://weixin.qq.home.kg/smtv.php?id=Zeetvhd
+印度|Zee Cinema HD,http://weixin.qq.home.kg/smtv.php?id=Zeecinemahd
+印度|Color HD,http://weixin.qq.home.kg/smtv.php?id=Colorhd
+印度|Starplus HD,http://weixin.qq.home.kg/smtv.php?id=Starplushd
+印度|Picture HD,http://weixin.qq.home.kg/smtv.php?id=Npicture
+印度|Zee News,http://weixin.qq.home.kg/smtv.php?id=Zeenews
+印度|Asianet,http://weixin.qq.home.kg/smtv.php?id=asianet_raj
+印度|Asianet News,http://weixin.qq.home.kg/smtv.php?id=asianetnews_raj
+印度|Discovery World Tamil,http://weixin.qq.home.kg/smtv.php?id=discoveryworldtam_raj
+印度|History Tamil,http://weixin.qq.home.kg/smtv.php?id=historytam_raj
+印度|NatGeo Tamil,http://weixin.qq.home.kg/smtv.php?id=natgeotamil_raj
+印度|Natgeo Wild Tamil,http://weixin.qq.home.kg/smtv.php?id=natgeowildtamil_raj
+印度|Astro Sonypix,http://weixin.qq.home.kg/smtv.php?id=Asonypix
+印度|Discovery Kids Tamil,http://weixin.qq.home.kg/smtv.php?id=discoverykidtamil_raj
+印度|Discovery Tamil,http://weixin.qq.home.kg/smtv.php?id=discoverytamil_raj
+印度|Sony Yay Tamil,http://weixin.qq.home.kg/smtv.php?id=sonyyaytam_raj
+印度|Sun TV India,http://weixin.qq.home.kg/smtv.php?id=suntv_raj
+印度|Starmaa HD,http://weixin.qq.home.kg/smtv.php?id=starmaa_raj
+印度|Starmaa Movies HD,http://weixin.qq.home.kg/smtv.php?id=starmaamovies_raj
+印度|Bollyone,http://weixin.qq.home.kg/smtv.php?id=Bollyone
+印度|Astro Sunmusic,http://weixin.qq.home.kg/smtv.php?id=Sunmusic
+印度|Vijay Super,http://weixin.qq.home.kg/smtv.php?id=vijaysuper_raj
+印度|Vellithirai,http://weixin.qq.home.kg/smtv.php?id=Vellithirai
+泰国,#genre#
+泰国|Channel 3 Thailand,http://weixin.qq.home.kg/smtv.php?id=ch3_pat
+泰国|Channel 5 Thailand,http://weixin.qq.home.kg/smtv.php?id=ch5_pat
+泰国|Channel 7 Thailand,http://weixin.qq.home.kg/smtv.php?id=ch7_pat
+泰国|MCOT HD Thailand-1,http://weixin.qq.home.kg/smtv.php?id=mcot_pat
+泰国|PPTV Thailand1,http://weixin.qq.home.kg/smtv.php?id=pptv_pat
+泰国|Thai Thai,http://weixin.qq.home.kg/smtv.php?id=thaithai_pat
+泰国|Amarin,http://weixin.qq.home.kg/smtv.php?id=amarin_pat
+泰国|Ch 8,http://weixin.qq.home.kg/smtv.php?id=ch8_pat
+泰国|GmmOne,http://weixin.qq.home.kg/smtv.php?id=gmmone_pat
+泰国|Mono,http://weixin.qq.home.kg/smtv.php?id=mono_pat
+泰国|Thairath,http://weixin.qq.home.kg/smtv.php?id=thairath_pat
+泰国|tpbs,http://weixin.qq.home.kg/smtv.php?id=tpbs_pat
+泰国|Workpoint,http://weixin.qq.home.kg/smtv.php?id=workpoint_pat
+泰国|Gmm Channel,http://weixin.qq.home.kg/smtv.php?id=gmmchannel_pat
+泰国|Nation,http://weixin.qq.home.kg/smtv.php?id=nation_pat
+泰国|Tnn24,http://weixin.qq.home.kg/smtv.php?id=tnn24_pat
+泰国|Nbt,http://weixin.qq.home.kg/smtv.php?id=nbt_pat
+泰国|New,http://weixin.qq.home.kg/smtv.php?id=new_pat
+泰国|TPTV,http://weixin.qq.home.kg/smtv.php?id=tptv_pat
+英国,#genre#
+英国|BBC 1,http://weixin.qq.home.kg/smtv.php?id=bbc1_antik
+英国|BBC 2,http://weixin.qq.home.kg/smtv.php?id=bbc2_antik
+英国|CBBC,http://weixin.qq.home.kg/smtv.php?id=cbbc_antik
+英国|More4,http://weixin.qq.home.kg/smtv.php?id=more4_antik
+英国|Freesports,http://weixin.qq.home.kg/smtv.php?id=freesports_antik
+英国|Skynews,http://weixin.qq.home.kg/smtv.php?id=skynews_twn
+英国|Pick TV,http://weixin.qq.home.kg/smtv.php?id=picktv_antik
+英国|itv 1,http://weixin.qq.home.kg/smtv.php?id=itv1_antik
+英国|itv 2,http://weixin.qq.home.kg/smtv.php?id=itv2_antik
+英国|Euronews,http://weixin.qq.home.kg/smtv.php?id=euronews_antik
+英国|Channel 4,http://weixin.qq.home.kg/smtv.php?id=channel4_antik
+英国|NatGeo HD,http://weixin.qq.home.kg/smtv.php?id=Natgeo
+英国|CBeebies,http://weixin.qq.home.kg/smtv.php?id=Cbeebies
+英国|History,http://weixin.qq.home.kg/smtv.php?id=History
+英国|Kids TV,http://weixin.qq.home.kg/smtv.php?id=KidsTV
+英国|France 24,http://weixin.qq.home.kg/smtv.php?id=france24_twn
+英国|DW (Deutsch),http://weixin.qq.home.kg/smtv.php?id=dw_twn
+英国|BBC Earth HD,http://weixin.qq.home.kg/smtv.php?id=bbcearth_twn
+英国|BBC Earth Lifestyle,http://weixin.qq.home.kg/smtv.php?id=bbclifestyle_twn
+英国|MTV Live,http://weixin.qq.home.kg/smtv.php?id=mtvhd_twn
+英国|Star Movies HD,http://weixin.qq.home.kg/smtv.php?id=starmovies_raj
+英国|NHK World,http://weixin.qq.home.kg/smtv.php?id=nhkworld_japan
+英国|Warner TV,http://weixin.qq.home.kg/smtv.php?id=WarnerTV
+英国|HBO HD,http://weixin.qq.home.kg/smtv.php?id=Hbo
+英国|NatGeo Wild HD,http://weixin.qq.home.kg/smtv.php?id=Natgeowild
+英国|Nickelodeon,http://weixin.qq.home.kg/smtv.php?id=Nickelodeon
+英国|Nick Jr,http://weixin.qq.home.kg/smtv.php?id=Nickjr
+英国|Thrill,http://weixin.qq.home.kg/smtv.php?id=Thrill
+英国|CGTN,http://weixin.qq.home.kg/smtv.php?id=CGTN
+英国|Hits Movie,http://weixin.qq.home.kg/smtv.php?id=Hitsmovie
+英国|Animal Planet (Eng),http://weixin.qq.home.kg/smtv.php?id=AnimalPlanet
+英国|CNBC,http://weixin.qq.home.kg/smtv.php?id=cnbc_twn
+英国|TLC,http://weixin.qq.home.kg/smtv.php?id=Tlc
+英国|BBC World News,http://weixin.qq.home.kg/smtv.php?id=bbcworldnews_antik
+英国|HGTV,http://weixin.qq.home.kg/smtv.php?id=HGTV
+英国|Axn HD,http://weixin.qq.home.kg/smtv.php?id=Axn
+英国|Skysports F1,http://weixin.qq.home.kg/smtv.php?id=tiankongf1
+英国|Skysports Cricket,http://weixin.qq.home.kg/smtv.php?id=tiankongcricket
+英国|Bloomberg News,http://weixin.qq.home.kg/smtv.php?id=bloomberg_twn
+英国|Skysports EPL,http://weixin.qq.home.kg/smtv.php?id=tiankongepl
+英国|Skysports Main Event,http://weixin.qq.home.kg/smtv.php?id=tiankongmain
+英国|Skysports News,http://weixin.qq.home.kg/smtv.php?id=tiankongnews
+英国|Al-Jazeera,http://weixin.qq.home.kg/smtv.php?id=aljazeera_twn
+越南,#genre#
+越南|ANTV,http://weixin.qq.home.kg/smtv.php?id=viet_antv
+越南|VTV 1,http://weixin.qq.home.kg/smtv.php?id=viet_vtv1
+越南|VTV 7,http://weixin.qq.home.kg/smtv.php?id=viet_vtv7
+越南|HTV 7,http://weixin.qq.home.kg/smtv.php?id=viet_htv7
+越南|HTV 9,http://weixin.qq.home.kg/smtv.php?id=viet_htv9
+越南|BPTV 2,http://weixin.qq.home.kg/smtv.php?id=viet_bptv2
+越南|BRT HD,http://weixin.qq.home.kg/smtv.php?id=viet_brt
+越南|Ca Mau TV,http://weixin.qq.home.kg/smtv.php?id=viet_camautv
+越南|Danang TV1 HD,http://weixin.qq.home.kg/smtv.php?id=viet_danangtv1
+越南|Danang TV2 HD,http://weixin.qq.home.kg/smtv.php?id=viet_danangtv2
+越南|HBTV HD,http://weixin.qq.home.kg/smtv.php?id=viet_hbtv
+越南|PTTH 1,http://weixin.qq.home.kg/smtv.php?id=viet_ptth1
+韩国,#genre#
+韩国|Arirang HD,http://weixin.qq.home.kg/smtv.php?id=arirang_korea
+韩国|Yonhap News,http://weixin.qq.home.kg/smtv.php?id=yonhapnews_korea
+韩国|CBS,http://weixin.qq.home.kg/smtv.php?id=cbs_korea
+韩国|EBS 1,http://weixin.qq.home.kg/smtv.php?id=ebs1_korea
+韩国|EBS2,http://weixin.qq.home.kg/smtv.php?id=ebs2_korea
+韩国|EBS Plus2,http://weixin.qq.home.kg/smtv.php?id=ebsplus2_korea
+韩国|SBS Plus,http://weixin.qq.home.kg/smtv.php?id=sbsplus_korea
+韩国|YTN,http://weixin.qq.home.kg/smtv.php?id=ytn_korea
+韩国|KBS World 24,http://weixin.qq.home.kg/smtv.php?id=kbsworld24_korea
+韩国|YTN Science,http://weixin.qq.home.kg/smtv.php?id=ytnscience_korea
+韩国|YTN Korean,http://weixin.qq.home.kg/smtv.php?id=ytnkorean_korea
+韩国|YTN DMB,http://weixin.qq.home.kg/smtv.php?id=ytndmb_korea
+韩国|Apps TV,http://weixin.qq.home.kg/smtv.php?id=appongoogle_korea
+韩国|All the Kpop,http://weixin.qq.home.kg/smtv.php?id=allthekpop_korea
+韩国|J the Kpop,http://weixin.qq.home.kg/smtv.php?id=jthekpop_korea
+韩国|EBS Kids,http://weixin.qq.home.kg/smtv.php?id=ebskids_korea
+韩国|CGNTV,http://weixin.qq.home.kg/smtv.php?id=cgntv_korea
+日本,#genre#
+日本|NHK-総合-2,http://weixin.qq.home.kg/smtv.php?id=nhkg_japan
+日本|NHK-E,http://weixin.qq.home.kg/smtv.php?id=nhke_japan
+日本|テレビ朝日 Asahi TV,http://weixin.qq.home.kg/smtv.php?id=asahitv_japan
+日本|JET 綜合,http://weixin.qq.home.kg/smtv.php?id=jettv_japan
+日本|テレビ東京 Tokyo TV,http://weixin.qq.home.kg/smtv.php?id=tokyotv_japan
+日本|TOKYOMX,http://weixin.qq.home.kg/smtv.php?id=tokyomx_japan
+日本|NHKBS1,http://weixin.qq.home.kg/smtv.php?id=nhkbs1_japan
+日本|NHKBSプレミア Premium,http://weixin.qq.home.kg/smtv.php?id=nhkpremium_japan
+日本|BSジャパン 181,http://weixin.qq.home.kg/smtv.php?id=bs181_japan
+日本|BSフジ BS Fuji,http://weixin.qq.home.kg/smtv.php?id=bsfuji_japan
+日本|CNA Japan,http://weixin.qq.home.kg/smtv.php?id=cna_japan
+日本|BS-TBS,http://weixin.qq.home.kg/smtv.php?id=bstbs_japan
+日本|NHK Oaska,http://weixin.qq.home.kg/smtv.php?id=nhkosaka_japan
+日本|NHK World,http://weixin.qq.home.kg/smtv.php?id=nhkworld_japan
