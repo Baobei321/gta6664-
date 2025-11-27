@@ -60,7 +60,7 @@
       "name": "凯少爷3k极光",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752147136736/PandaQ0710.jpg;md5;2199d0eb0e8a03acb35b935c088ef6db",
+      "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -71,9 +71,10 @@
       "key": "荐片",
       "name": "荐片┃影视",
       "api": "csp_Jianpian",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752147136736/PandaQ0710.jpg;md5;2199d0eb0e8a03acb35b935c088ef6db",
+      "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967",
       "type": 3,
-      "playerType": "2"
+      "playerType": "2",
+      "ext": "https://ev2089.zxbwv.com"
     },
     {
       "key": "csp_Gz360",
@@ -88,7 +89,7 @@
       "key": "梦回",
       "name": "┃梦回┃APP",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/37e4d70e91824037/PandaQ250808.jpg;md5;1099f9cedab19f487ac8fc283d9ca447",
+      "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967",
       "api": "csp_AppRJ",
       "ext": "http://v.lkuys.cn"
     },
@@ -96,7 +97,7 @@
       "key": "csp_Jpys",
       "name": "┃金牌┃影视",
       "type": 3,
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/37e4d70e91824037/PandaQ250808.jpg;md5;1099f9cedab19f487ac8fc283d9ca447",
+       "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967",
       "api": "csp_Jpys"
     },
 {
