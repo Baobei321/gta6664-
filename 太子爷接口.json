@@ -21,17 +21,31 @@
             "indexs": 1,
             "ext": "./douban.json"
         },
-    {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
-          "type": 3,
-            "api": "csp_WoggGuard",
-            "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/Rk80Tm-B.png;md5;db9e24529dc557e87f378d8da73146cf",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "timeout": 30
+        {
+            "key": "配置中心",
+            "name": "配置中心",
+            "type": 3,
+            "api": "csp_Config",
+            "jar": "./凡人.jar",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
         },
+{
+      "key": "玩偶哥哥",
+      "name": "玩偶｜4K",
+      "type": 3,
+      "api": "csp_PanWebShare",
+	  "jar": "./凡人.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./wogg.json"
+    },
     {
       "key": "移动4K云盘",
       "name": "移动4K云盘",
