@@ -60,7 +60,7 @@
       "name": "凯少爷3k极光",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967",
+      "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -71,7 +71,7 @@
       "key": "荐片",
       "name": "荐片┃影视",
       "api": "csp_Jianpian",
-      "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967",
+      "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d",
       "type": 3,
       "playerType": "2",
       "ext": "https://ev2089.zxbwv.com"
@@ -80,26 +80,27 @@
       "key": "csp_Gz360",
       "name": "瓜子┃APP",
       "type": 3,
-      "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967",
+      "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d",
       "api": "csp_Gz360",
       "playerType": 2
     },
+    {
+      "key": "猫抓",
+      "name": "猫抓┃APP",
+      "type": 3,
+	  "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d",
+      "api": "csp_AppGet",
+      "ext": "https://www.mfsp4k.top|1234567887654321"
+    },
+    {
+      "key": "仓鼠",
+      "name": "耗子┃APP",
+      "type": 3,
+	  "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d",
+      "api": "csp_AppGet",
+      "ext": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl"
+    },
 
-    {
-      "key": "梦回",
-      "name": "┃梦回┃APP",
-      "type": 3,
-      "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967",
-      "api": "csp_AppRJ",
-      "ext": "http://v.lkuys.cn"
-    },
-    {
-      "key": "csp_Jpys",
-      "name": "┃金牌┃影视",
-      "type": 3,
-       "jar": "https://img2.gelonghui.com/library/d6746-1ca6a028-b1c2-4ea1-9676-c6add8e48614.png;md5;d674699ad956f05cb6bdaa24dc765967",
-      "api": "csp_Jpys"
-    },
 {
             "key": "农民影视",
             "name": "农民｜影视",
@@ -110,14 +111,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./农民影视.json"
-        },
-        {
-            "key": "白白影视",
-            "name": "白白｜影视",
-            "type": 3,
-            "jar": "./spider.jar",
-            "api": "csp_SuBaiBai",
-            "ext": "https://www.subaibai.com"
         },
         {
             "key": "瓜子影视",
