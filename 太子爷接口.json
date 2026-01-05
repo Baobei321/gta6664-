@@ -85,14 +85,6 @@
       "playerType": 2
     },
     {
-      "key": "猫抓",
-      "name": "猫抓┃APP",
-      "type": 3,
-	  "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d",
-      "api": "csp_AppGet",
-      "ext": "https://www.mfsp4k.top|1234567887654321"
-    },
-    {
       "key": "仓鼠",
       "name": "耗子┃APP",
       "type": 3,
