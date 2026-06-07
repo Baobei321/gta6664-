@@ -13,6 +13,17 @@
             "indexs": 1,
             "ext": "./douban.json"
         },
+    {
+      "key": "群哔哩哔哩",
+      "name": "🧘‍♂️瑜伽┃健身",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "./spideryule.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./Bili.json"
+    },
         {
             "key": "配置中心",
             "name": "配置中心",
